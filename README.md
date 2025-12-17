@@ -15,8 +15,8 @@ This project uses a custom CNN architecture to classify images from the Natural 
 - Motorbike
 
 **Course:** CECS 456 - Machine Learning  
-**Author:** [Your Name]  
-**Date:** [Current Date]
+**Author:** Lisseth Zamora  
+**Date:** Dec.15 2025
 
 ---
 
