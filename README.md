@@ -124,7 +124,7 @@ scikit-learn
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 ### Sample Images from Each Class
 ![Sample Images](sample_images.png)
@@ -140,7 +140,7 @@ scikit-learn
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### What Worked Well
 - Data augmentation improved generalization
@@ -165,7 +165,7 @@ scikit-learn
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.9+**
 - **TensorFlow/Keras:** Deep learning framework
@@ -176,7 +176,7 @@ scikit-learn
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 natural-images-classification/
@@ -195,48 +195,6 @@ natural-images-classification/
 └── models/                            # Saved models
     └── natural_images_cnn_model.h5
 ```
-
----
-
-## 📝 Report
-
-The complete project report (3-4 pages) includes:
-1. Introduction and motivation
-2. Dataset description and exploration
-3. Methodology and model architecture
-4. Experimental setup
-5. Results and evaluation metrics
-6. Analysis and discussion
-7. Conclusion and future work
-
----
-
-## 🎓 Academic Integrity
-
-This project was completed as part of CECS 456 coursework. The implementation is original work, though it builds upon standard CNN architectures and practices from the deep learning literature.
-
----
-
-## 📧 Contact
-
-**[Your Name]**  
-- Email: your.email@student.edu
-- GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
-## 📄 License
-
-This project is for educational purposes as part of CECS 456 coursework.
-
----
-
-## 🙏 Acknowledgments
-
-- Natural Images dataset by Prasun Roy on Kaggle
-- TensorFlow and Keras documentation
-- CECS 456 course materials and instructor guidance
-- Google Colab for providing free GPU resources
 
 ---
 
