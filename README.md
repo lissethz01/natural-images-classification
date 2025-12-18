@@ -2,7 +2,7 @@
 
 A deep learning project implementing a Convolutional Neural Network (CNN) to classify natural images into 8 categories.
 
-## 📋 Project Overview
+## Project Overview
 
 This project uses a custom CNN architecture to classify images from the Natural Images dataset into the following categories:
 - Airplane
@@ -20,7 +20,7 @@ This project uses a custom CNN architecture to classify images from the Natural 
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 **Source:** [Natural Images Dataset on Kaggle](https://www.kaggle.com/datasets/prasunroy/natural-images)
 
@@ -45,7 +45,7 @@ natural_images/
 
 ---
 
-## 🏗️ Model Architecture
+## Model Architecture
 
 ### CNN Architecture
 - **Input:** 150×150×3 RGB images
@@ -78,7 +78,7 @@ Trainable params: 5,553,864
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 ```bash
@@ -90,32 +90,17 @@ seaborn
 scikit-learn
 ```
 
-### Option 1: Google Colab (Recommended)
+### Google Colab
 1. Upload `natural_images_cnn_project.ipynb` to Google Colab
 2. Enable GPU: Runtime → Change runtime type → GPU
 3. Download the dataset from Kaggle
 4. Run all cells sequentially
 5. Wait for training to complete (~15-20 minutes)
 
-### Option 2: Local Setup
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/natural-images-classification.git
-cd natural-images-classification
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Download dataset
-# Place the 'natural_images' folder in the project root
-
-# Run Jupyter notebook
-jupyter notebook natural_images_cnn_project.ipynb
-```
 
 ---
 
-## 📈 Results
+## Results
 
 ### Training Performance
 - **Training Accuracy:** XX.XX%
